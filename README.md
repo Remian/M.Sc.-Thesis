@@ -29,5 +29,5 @@ Partial matlab codebase for frequency domain transformations are provdided in th
 Partial python scripts for automated data preprocessing for the spectrum database are provided in the
 "python_automation_tasks_and_plot" sub_directory.
 
-The whole code base could be share upon request.
+The whole code base would be make public upon publication of the research work.
 
